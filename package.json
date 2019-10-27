@@ -1,0 +1,27 @@
+{
+  "name": "puhelinluettelo_backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skoskipaa/puhelinluettelo-backend.git"
+  },
+  "author": "Saara Koskipaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skoskipaa/puhelinluettelo-backend/issues"
+  },
+  "homepage": "https://github.com/skoskipaa/puhelinluettelo-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
