@@ -1,0 +1,1 @@
+DELETE http://localhost:3001/api/persons/703 HTTP/1.1
